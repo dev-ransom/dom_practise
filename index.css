@@ -1,0 +1,89 @@
+/* 
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&family=Roboto+Condensed:ital,wght@1,300&display=swap');
+
+
+/* variable start */
+/* :root {
+    --font-family: 'Poppins', sans-serif;
+    --normal-font: 400;
+    --bold-font: 700;
+    --bolder-font: 900;
+    --text-color:#fff;
+    --second-bg-color:#323943;
+    --bg-color: #1f242d;
+    --primary-color: #4756df;
+    --secondary-color: #323943;
+    --primary-shadow: #8b8eaf;
+    --secondary-shadow: #a17a69;
+    --main-color:	#FF1493;
+    --bottom-margin: 0.5rem;
+    --bottom-margin-2: 1rem;
+    --line-height: 1.7rem;
+    --transition: 0.3s;
+    --text2-color:#ffffffc5;
+  }
+  /* variables end  */
+
+  /* *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  body{
+    background: var(--bg-color);
+    color: var(--text2-color);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+  }
+
+  .container{
+    height: px;
+    padding: 0 0 25px 0;
+    text-align: center;
+    border: 3px solid #ffffffc5;
+    border-radius: 20px;
+    margin: 50px auto;
+    background-color: var(--second-bg-color);
+  }
+
+  #heading{
+    margin: 25px 10px 5px 10px;
+    font-weight: 500;
+    font-size: 30px;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    padding: 20px 15px 5px 15px;
+    
+    color: #1f242d;
+}
+
+ul li {
+      background: var(--text2-color);
+    display: block;
+    padding: 5px;
+    margin: 0 0 2px 0;
+    font-size: 20px;
+    font-weight: 500;
+  } */ 
+  /* .white{
+    background: var(--text2-color);
+    width: 93%;
+    height: 40px;
+    margin: 2px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .white p{
+    color: var(--second-bg-color);
+    font-weight: 500;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  } */ 
